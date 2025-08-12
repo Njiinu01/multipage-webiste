@@ -17,4 +17,4 @@ A simple multipage portfolio website showcasing HTML5, CSS3, and JavaScript skil
 Can be hosted on GitHub Pages, Netlify, or Vercel.
 
 ## Live Demo
-(Insert your live link here)
+
